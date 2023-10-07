@@ -2,9 +2,9 @@
 
 Clone the repository by running this command in the terminal
 
-### git clone https://github.com/MERI2020/bright-boost.git
-### cd bright-boost
-### npm install
+### `git clone https://github.com/MERI2020/bright-boost.git`
+### `cd bright-boost`
+### `npm install`
 
 
 In the project directory, you can run:
